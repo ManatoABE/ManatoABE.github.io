@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Under construction."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ホーム",
+    "section": "",
+    "text": "Ph.D. Student | Tohoku University\nResearch Institute of Electrical Communication, Tohoku University\nHuman-Computer Interaction · Extended Reality · Human-Robot Interaction\nGitHub"
+  },
+  {
+    "objectID": "index.html#自己紹介",
+    "href": "index.html#自己紹介",
+    "title": "ホーム",
+    "section": "自己紹介",
+    "text": "自己紹介\n東北大学の博士課程に在籍しています．\nヒューマンコンピュータインタラクション（HCI），XR，ヒューマンロボットインタラクション（HRI）を中心に研究しています．\n特に，仮想環境やロボット操作における，直感的かつ精密な操作を支援するユーザインタフェースに関心があります．"
+  },
+  {
+    "objectID": "index.html#研究分野",
+    "href": "index.html#研究分野",
+    "title": "ホーム",
+    "section": "研究分野",
+    "text": "研究分野\n\nヒューマンコンピュータインタラクション（HCI）\nバーチャルリアリティ（VR）・拡張現実（AR）\nヒューマンロボットインタラクション（HRI）\n3Dユーザインタフェース\n触覚フィードバック"
+  },
+  {
+    "objectID": "index.html#selected-research",
+    "href": "index.html#selected-research",
+    "title": "ホーム",
+    "section": "Selected Research",
+    "text": "Selected Research\n\n\n\n\nVisual and Haptic Feedback for Robot Manipulation\nSupporting precise robot-arm manipulation through force-based visual and haptic feedback.\nPaper\n\n\n\n\n\nPrecise 3D Manipulation in VR\nExploring interaction techniques for accurate and intuitive 3D object manipulation.\n\n\n\n\n\nVR for Education\nSupporting interactive VR world creation for international virtual exchange education.\nPaper"
+  },
+  {
+    "objectID": "en/publications.html",
+    "href": "en/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Under construction."
+  },
+  {
+    "objectID": "en/cv.html",
+    "href": "en/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Under construction."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Under construction."
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Ph.D. Student | Tohoku University\nResearch Institute of Electrical Communication, Tohoku University\nHuman-Computer Interaction · Extended Reality · Human-Robot Interaction\nGitHub"
+  },
+  {
+    "objectID": "en/index.html#about-me",
+    "href": "en/index.html#about-me",
+    "title": "Home",
+    "section": "About Me",
+    "text": "About Me\nI am a Ph.D. student at Tohoku University, Japan.\nMy research focuses on Human-Computer Interaction (HCI), Extended Reality (XR), and Human-Robot Interaction (HRI).\nI am particularly interested in developing intuitive interfaces that support precise manipulation tasks in virtual and robotic environments."
+  },
+  {
+    "objectID": "en/index.html#research-interests",
+    "href": "en/index.html#research-interests",
+    "title": "Home",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHuman-Computer Interaction (HCI)\nVirtual Reality (VR) / Augmented Reality (AR)\nHuman-Robot Interaction (HRI)\n3D User Interfaces\nHaptic Feedback"
+  },
+  {
+    "objectID": "en/index.html#selected-research",
+    "href": "en/index.html#selected-research",
+    "title": "Home",
+    "section": "Selected Research",
+    "text": "Selected Research\n\n\n\n\nVisual and Haptic Feedback for Robot Manipulation\nSupporting precise robot-arm manipulation through force-based visual and haptic feedback.\nPaper\n\n\n\n\n\nPrecise 3D Manipulation in VR\nExploring interaction techniques for accurate and intuitive 3D object manipulation.\n\n\n\n\n\nVR for Education\nSupporting interactive VR world creation for international virtual exchange education.\nPaper"
+  },
+  {
+    "objectID": "en/research.html",
+    "href": "en/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Under construction."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Under construction."
+  }
+]

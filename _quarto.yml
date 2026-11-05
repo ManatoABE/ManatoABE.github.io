@@ -1,21 +1,32 @@
+
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Manato Abe"
   navbar:
+    background: light
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: ホーム
+      - href: research.qmd
+        text: 研究
+      - href: publications.qmd
+        text: 業績
+      - href: cv.qmd
+        text: 経歴
+    right:
+      - text: "日本語"
+        href: index.qmd
+      - text: "English"
+        href: en/index.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
+    toc: false
     css: styles.css
-    toc: true
-
-
-
+    include-after-body:
+      - text: |
+          <script src="/language.js"></script>
